@@ -1,0 +1,14 @@
+syntax = "proto3";
+option java_package = "io.altchain.data.idl.test";
+
+message TestStruct {
+  enum TestEnum {
+    ENUM_1 = 0;
+    ENUM_2 = 1;
+    ENUM_3 = 2;
+    ENUM_4 = 3;
+  }
+
+  int64 int_value = 1;
+  TestEnum enum_value = 2;
+}

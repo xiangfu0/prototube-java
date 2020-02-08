@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "io.altchain.data.idl";
+
+// Server side message decoration
+message PrototubeMessageHeader {
+    // Wire version of the Prototube message
+    int32 version = 1;
+    // Schema version of the message
+    int32 schema_version  = 2;
+    // Time when the message is produced since UNIX epoch
+    int64 ts = 3;
+    // 16 bytes UUID
+    bytes uuid = 4;
+}
+
