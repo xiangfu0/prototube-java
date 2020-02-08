@@ -18,7 +18,7 @@
     <flink.version>1.9.1</flink.version>
     <hadoop.version>2.9.0</hadoop.version>
     <jackson.version>1.9.13</jackson.version>
-    <jackson2.version>2.7.4</jackson2.version>
+    <jackson2.version>2.10.2</jackson2.version>
     <jersey2.version>2.22.2</jersey2.version>
     <kafka.version>1.0.0</kafka.version>
     <protobuf.version>3.11.1</protobuf.version>
