@@ -18,7 +18,7 @@
     <protobuf.version>3.11.1</protobuf.version>
     <scala.binary.version>2.11</scala.binary.version>
     <commons.io.version>2.6</commons.io.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mockito.version>1.10.19</mockito.version>
   </properties>
 
