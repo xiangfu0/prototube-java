@@ -15,7 +15,7 @@
     <spark.version>2.2.0</spark.version>
     <flink.version>1.9.1</flink.version>
     <kafka.version>1.0.0</kafka.version>
-    <protobuf.version>3.11.1</protobuf.version>
+    <protobuf.version>3.16.1</protobuf.version>
     <scala.binary.version>2.11</scala.binary.version>
     <commons.io.version>2.6</commons.io.version>
     <junit.version>4.12</junit.version>
